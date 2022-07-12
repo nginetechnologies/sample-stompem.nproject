@@ -71,7 +71,7 @@
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "rotation": [
                                     0.0,
-                                    45.0279,
+                                    45.0,
                                     0.0
                                 ]
                             },
@@ -159,14 +159,19 @@
             "instanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
-                    -4.5,
-                    0.75,
-                    0.5
+                    -4.4989,
+                    0.7498,
+                    0.4998
                 ],
                 "rotation": [
                     0.0,
                     -0.0,
-                    90.0418
+                    90.048
+                ],
+                "scale": [
+                    0.5,
+                    0.5,
+                    0.5
                 ]
             },
             "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
@@ -174,14 +179,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -196,10 +201,10 @@
                 "position": [
                     -25.1403,
                     55.686,
-                    11.3045
+                    11.3044
                 ],
                 "rotation": [
-                    -44.9908,
+                    -44.9854,
                     0.0,
                     0.0
                 ]
@@ -218,14 +223,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -244,7 +249,7 @@
                     2.9937
                 ],
                 "rotation": [
-                    -45.0016,
+                    -44.9962,
                     0.0,
                     0.0
                 ]
@@ -268,14 +273,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "59ee1ac2-c4c3-18c2-32b4-527f2c2e8032"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -303,14 +308,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -338,14 +343,14 @@
             },
             "data_components": [
                 {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
+                },
+                {
                     "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
                     "mask": [
                         "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                     ]
-                },
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f695b7d2-b906-4085-5b54-71c0ed7599b6"
                 },
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -356,14 +361,14 @@
     ],
     "default_camera": {
         "position": [
-            21.2975,
-            -4.8171,
-            12.0215
+            -3.6368,
+            -4.8837,
+            7.0031
         ],
         "rotation": [
-            -30.6617,
-            0.0,
-            34.5157
+            -34.6081,
+            -0.0,
+            -0.8409
         ],
         "fieldOfView": 60.0,
         "nearPlane": 0.0098,
@@ -371,9 +376,9 @@
     },
     "grid": {
         "position": [
-            4.6664,
-            1.9761,
-            1.999
+            -4.5,
+            0.75,
+            0.5
         ],
         "scale": [
             1.0,
