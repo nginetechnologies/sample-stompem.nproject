@@ -16,6 +16,11 @@
                     "name": "Crate Metal Physics Body"
                 }
             ],
+            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                "type": 2,
+                "layer": 1,
+                "maximumAngularVelocity": 2700.0
+            },
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",

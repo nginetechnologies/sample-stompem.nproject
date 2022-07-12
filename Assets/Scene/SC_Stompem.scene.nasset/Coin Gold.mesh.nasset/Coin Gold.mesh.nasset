@@ -1,26 +1,67 @@
 {
     "guid": "8eef7915-28fe-30b9-b20d-b976960d8916",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "7d9df0e9-a997-bcb1-2b3f-84ec0a57ccaa",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
-            "instanceGuid": "34038241-68f3-3d5a-b3cb-b3d5a156805c",
+            "typeGuid": "97f5d985-8b59-4864-82d8-0856b85b8c68",
+            "instanceGuid": "1bc884bd-5816-c162-1966-7215aff6cc1f",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "rotation": [
+                    -0.0,
+                    -0.0,
+                    85.058
+                ]
+            },
+            "e875b43b-d558-405c-a957-39c5d0f00ab2": {
+                "overriddenMass": 0.0
+            },
+            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                "type": 0,
+                "layer": 3,
+                "body_flags": 1,
+                "maximumAngularVelocity": 2700.0
+            },
+            "183d677a-b427-4b1d-a276-97b3e6681304": {
+                "mask": [
+                    "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+                ]
+            },
+            "97f5d985-8b59-4864-82d8-0856b85b8c68": {
+                "scoreReward": 0
+            },
             "data_components": [
                 {
+                    "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+                    "rotation": [
+                        180.0,
+                        0.0,
+                        0.0
+                    ]
+                },
+                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Coin Gold Physics Body"
+                    "name": "New Collectible Component"
                 }
             ],
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "a3b5ea5d-a173-ba4e-45eb-7d28a03cce45",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "7a412a5d-4510-3542-d380-f27fb9944c0a"
+                    },
                     "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "a3b5ea5d-a173-ba4e-45eb-7d28a03cce45"
+                        },
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Coin Gold Gold Collider"
@@ -30,35 +71,50 @@
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "d562a0e9-b54c-5cd4-3a5a-727a91baf256",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Coin Gold Gold"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "7a412a5d-4510-3542-d380-f27fb9944c0a",
                                 "material_instance": "f730ad41-945e-be1d-441b-299c0763eb4e"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "d562a0e9-b54c-5cd4-3a5a-727a91baf256"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Coin Gold Gold"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "7a412a5d-4510-3542-d380-f27fb9944c0a"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 },
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
                     "instanceGuid": "7e9571de-b214-9822-7a19-95ba8d7ae5ce",
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    },
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "4f363189-7a83-9b0b-d943-18bf745daeb2"
+                    },
                     "data_components": [
+                        {
+                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                            "templateInstanceGuid": "7e9571de-b214-9822-7a19-95ba8d7ae5ce"
+                        },
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Coin Gold Wood Collider"
@@ -68,36 +124,63 @@
                         {
                             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
                             "instanceGuid": "b496bfc1-9451-b5a8-6baa-dc60e4dad0fd",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Coin Gold Wood"
-                                }
-                            ],
                             "9f750482-b822-4d4b-be6a-9c135c614328": {
                                 "stages": [
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                                 ]
                             },
                             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                                 "mesh": "4f363189-7a83-9b0b-d943-18bf745daeb2",
                                 "material_instance": "a935cef5-f4b0-c285-9598-c8ccc6b3676a"
-                            }
+                            },
+                            "data_components": [
+                                {
+                                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                                    "mask": [
+                                        "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                                    ]
+                                },
+                                {
+                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                                    "templateInstanceGuid": "b496bfc1-9451-b5a8-6baa-dc60e4dad0fd"
+                                },
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Coin Gold Wood"
+                                }
+                            ]
                         }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "4f363189-7a83-9b0b-d943-18bf745daeb2"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    ]
                 }
             ]
         }
     ],
+    "default_camera": {
+        "position": [
+            -2.1375,
+            1.5072,
+            2.3309
+        ],
+        "rotation": [
+            -31.6096,
+            -0.0,
+            -119.9228
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.1,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "scale": [
+            -1.0,
+            1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "8eef7915-28fe-30b9-b20d-b976960d8916"
-    },
-    "thumbnailGuid": "96a37510-8c3e-2c4c-1d92-9280d59a48ec"
+    }
 }
