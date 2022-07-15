@@ -8,12 +8,16 @@
     "instanceGuid": "b70d887a-3a5d-ebe2-60df-4e566a12d38a",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "187bbecd-1b5f-b31b-665f-3539e316e431",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block LRG Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "bd2f6e74-d247-5055-bb6d-c91f50d115d1"
     },
-    "thumbnailGuid": "4c85dfd0-97a3-8859-945d-b15cb959280f"
+    "thumbnailGuid": "4c85dfd0-97a3-8859-945d-b15cb959280f",
+    "data_components": []
 }

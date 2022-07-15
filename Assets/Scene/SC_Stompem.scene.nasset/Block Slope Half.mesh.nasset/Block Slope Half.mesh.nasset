@@ -8,12 +8,16 @@
     "instanceGuid": "2447d849-b3e8-2a87-1604-8535d3df8578",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "fa273708-53e7-17e5-bdef-afa7c33683a6",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Slope Half Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "38761d7b-4706-b97c-7d00-80ab68adb8e5"
     },
-    "thumbnailGuid": "37a70f36-aff7-2002-b75b-38e5eb042116"
+    "thumbnailGuid": "37a70f36-aff7-2002-b75b-38e5eb042116",
+    "data_components": []
 }

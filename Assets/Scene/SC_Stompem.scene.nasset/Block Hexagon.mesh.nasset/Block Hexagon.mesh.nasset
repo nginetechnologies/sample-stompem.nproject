@@ -8,12 +8,16 @@
     "instanceGuid": "c301f26d-45fa-e8e7-ecca-d8e51636a802",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "ae2201d6-1fd0-9c31-8846-7575a201157b",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Hexagon Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "78fd4398-cf95-980b-a1f2-b6494ee99050"
     },
-    "thumbnailGuid": "baa0ec3d-7f04-c702-041e-46fb683ec680"
+    "thumbnailGuid": "baa0ec3d-7f04-c702-041e-46fb683ec680",
+    "data_components": []
 }

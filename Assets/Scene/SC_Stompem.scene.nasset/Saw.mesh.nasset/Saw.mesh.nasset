@@ -12,12 +12,6 @@
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
             },
-            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-                "type": 0,
-                "layer": 3,
-                "body_flags": 1,
-                "maximumAngularVelocity": 0.0
-            },
             "183d677a-b427-4b1d-a276-97b3e6681304": {
                 "mask": [
                     "d6a09c51-8ccf-416e-8154-66f9404d2a44"
@@ -27,7 +21,15 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "New Restart Game Area"
-                }
+                },
+				{
+					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+					"type": 0,
+					"layer": 3,
+					"body_flags": 1,
+					"maximumAngularVelocity": 2700.0
+				}
+
             ],
             "children": [
                 {
@@ -49,12 +51,12 @@
             ]
         },
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "e18c2a3d-5542-1f95-e485-acc5313c0b6a",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
                     179.1876,
-                    5.7766,
+                    5.7765,
                     -176.8367
                 ]
             },
@@ -82,6 +84,10 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Saw Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -166,5 +172,9 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "9480cdf3-7f6c-7850-01a7-2a9097b48f00"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": []
 }

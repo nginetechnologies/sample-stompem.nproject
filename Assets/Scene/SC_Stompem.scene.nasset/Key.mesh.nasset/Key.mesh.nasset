@@ -11,19 +11,13 @@
             "instanceGuid": "321d6bab-b7c4-a520-2b57-73e55ce6722d",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
+                    0.0,
                     -0.0,
-                    -0.0,
-                    156.0712
+                    156.0697
                 ]
             },
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
-            },
-            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-                "type": 0,
-                "layer": 3,
-                "body_flags": 1,
-                "maximumAngularVelocity": 2700.0
             },
             "183d677a-b427-4b1d-a276-97b3e6681304": {
                 "mask": [
@@ -45,7 +39,15 @@
                         0.0,
                         0.0
                     ]
-                }
+                },
+				{
+					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+					"type": 0,
+					"layer": 3,
+					"body_flags": 1,
+					"maximumAngularVelocity": 2700.0
+				}
+
             ],
             "children": [
                 {
@@ -129,5 +131,9 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "7cf226ad-c279-d6cc-4173-092c72934765"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": []
 }

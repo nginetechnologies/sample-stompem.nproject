@@ -8,12 +8,16 @@
     "instanceGuid": "9eb557eb-6095-5c5c-b794-9e05ea763372",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "d117ca67-742e-3df6-54d2-ee009adfb6b3",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Chest Lid Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "97ba2ace-ef75-1751-540a-4a332ee6673e"
     },
-    "thumbnailGuid": "6592f836-39be-bc66-b30d-6001d7de9f93"
+    "thumbnailGuid": "6592f836-39be-bc66-b30d-6001d7de9f93",
+    "data_components": []
 }

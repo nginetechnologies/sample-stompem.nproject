@@ -8,12 +8,16 @@
     "instanceGuid": "ce3513b8-e2df-c2a7-b00c-1d811e07d44c",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "ce3bea65-8da3-7c5d-f7c7-d9909643bc9a",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Moving Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -137,5 +141,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "db4ed462-95b7-6e51-06dc-7db33c86d0d7"
     },
-    "thumbnailGuid": "1eb4aaa5-5d1a-14af-d3df-694993a67d4e"
+    "thumbnailGuid": "1eb4aaa5-5d1a-14af-d3df-694993a67d4e",
+    "data_components": []
 }

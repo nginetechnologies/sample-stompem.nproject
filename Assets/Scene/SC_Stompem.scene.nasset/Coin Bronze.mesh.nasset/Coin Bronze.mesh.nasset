@@ -13,17 +13,11 @@
                 "rotation": [
                     0.0,
                     -0.0,
-                    -63.6934
+                    -63.6859
                 ]
             },
             "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                 "overriddenMass": 0.0
-            },
-            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-                "type": 0,
-                "layer": 3,
-                "body_flags": 1,
-                "maximumAngularVelocity": 2700.0
             },
             "183d677a-b427-4b1d-a276-97b3e6681304": {
                 "mask": [
@@ -45,7 +39,14 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "New Collectible Component"
-                }
+                },
+				{
+					"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+					"type": 0,
+					"layer": 3,
+					"body_flags": 1,
+					"maximumAngularVelocity": 2700.0
+				}
             ],
             "children": [
                 {
@@ -182,5 +183,9 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "03c624d3-f50e-b9ef-4afd-2f43b13720d5"
-    }
+    },
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "data_components": []
 }

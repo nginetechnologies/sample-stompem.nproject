@@ -8,12 +8,16 @@
     "instanceGuid": "5d5fa787-c2de-9478-c502-55c556e006f4",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "b5764e20-1eb4-b569-270e-c46e5221e8d2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Chest Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "07540564-5dd1-ce4a-d4b9-91e6a05d8194"
     },
-    "thumbnailGuid": "d60f8e60-e350-fd05-ac98-b5f6c978c86c"
+    "thumbnailGuid": "d60f8e60-e350-fd05-ac98-b5f6c978c86c",
+    "data_components": []
 }

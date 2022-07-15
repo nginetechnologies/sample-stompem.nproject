@@ -8,12 +8,16 @@
     "instanceGuid": "d89a219d-bcc4-0984-de2a-0f6a70891e27",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "75927107-298e-15df-01a9-b641f98c08e7",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Fence Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -137,5 +141,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "83f3f376-cd02-0917-bf28-22be5309dfa6"
     },
-    "thumbnailGuid": "e9edbb31-5ecd-26e5-da7d-2439844aacdf"
+    "thumbnailGuid": "e9edbb31-5ecd-26e5-da7d-2439844aacdf",
+    "data_components": []
 }

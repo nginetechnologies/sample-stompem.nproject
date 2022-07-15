@@ -8,12 +8,16 @@
     "instanceGuid": "b13fb874-f0fe-92d5-8112-c3863ef806af",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "9e2aa571-6b32-2016-f98b-5fdf990d22e6",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Snow Hexagon Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "8c4867ec-80ce-a367-5832-f8e6fdfa7814"
     },
-    "thumbnailGuid": "c2f3516b-6daf-cd08-43b0-9b39f0b262d2"
+    "thumbnailGuid": "c2f3516b-6daf-cd08-43b0-9b39f0b262d2",
+    "data_components": []
 }

@@ -8,12 +8,16 @@
     "instanceGuid": "3e73722e-942d-10fc-fec4-f55609f210bd",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "a7aabfef-4057-f71b-7c7b-199e5e68f95b",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Plain LRG Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -61,5 +65,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "ff651353-c5af-e43c-2b74-3a9dc4712255"
     },
-    "thumbnailGuid": "198af1e3-2977-053b-8d1b-39a55fe6131d"
+    "thumbnailGuid": "198af1e3-2977-053b-8d1b-39a55fe6131d",
+    "data_components": []
 }

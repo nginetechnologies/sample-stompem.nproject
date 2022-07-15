@@ -1,6 +1,6 @@
 {
     "guid": "8849e023-b363-9c17-a480-6a4f38b58c11",
-    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
     "instanceGuid": "6d15fd37-2c97-a8da-7f64-52aae0ee8168",
     "children": [
         {
@@ -45,5 +45,11 @@
     "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "tags": [
         "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+    ],
+    "data_components": [
+        {
+            "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+            "type": 0
+        }
     ]
 }

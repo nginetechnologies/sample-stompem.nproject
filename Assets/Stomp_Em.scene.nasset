@@ -532,7 +532,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "a4dc0264-5ae2-414c-1da5-235a3fa1bf41",
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "rotation": [
@@ -645,7 +645,7 @@
             ],
             "children": [
                 {
-                    "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+                    "typeGuid": "AC11F104-0D79-4ECF-BAE5-DBBBB344AD19",
                     "instanceGuid": "73fd638d-bb02-3de5-dce1-5e3bdd585a78",
                     "e875b43b-d558-405c-a957-39c5d0f00ab2": {
                         "overriddenMass": 600.0

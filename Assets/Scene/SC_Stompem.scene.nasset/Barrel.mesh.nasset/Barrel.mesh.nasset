@@ -8,19 +8,18 @@
     "instanceGuid": "ce580159-5318-1dd5-2ca6-cd06c75fef28",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "c1b5aaae-db1b-d8bf-83e2-5fa3c36d726c",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Barrel Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
-            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-                "type": 2,
-                "layer": 1,
-                "maximumAngularVelocity": 2700.0
-            },
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
@@ -29,7 +28,13 @@
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Barrel Wood Dark Collider"
-                        }
+                        },
+						{
+							"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+							"type": 2,
+							"layer": 1,
+							"maximumAngularVelocity": 2700.0
+						}
                     ],
                     "children": [
                         {
@@ -104,5 +109,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "23dc6951-ac5f-8d1e-fd05-153ec04f9afd"
     },
-    "thumbnailGuid": "8478c899-8d01-7b80-dd87-b85f5c866153"
+    "thumbnailGuid": "8478c899-8d01-7b80-dd87-b85f5c866153",
+    "data_components": []
 }

@@ -8,12 +8,16 @@
     "instanceGuid": "a3dadb39-551f-bd24-6ae8-0b83793274f3",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "dc670177-a803-8909-012c-1c3c567312b2",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Dirt Ramp Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -61,5 +65,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "a0581e58-5f58-7ac8-7ce0-aac9e2a1b998"
     },
-    "thumbnailGuid": "6d636c6f-43a7-49eb-3c6e-9e1f1ca1322e"
+    "thumbnailGuid": "6d636c6f-43a7-49eb-3c6e-9e1f1ca1322e",
+    "data_components": []
 }

@@ -8,12 +8,16 @@
     "instanceGuid": "1d3988a9-8185-ef59-b233-a81c5f657ab0",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "4df0d294-f0bf-af09-18f9-93283d8135c1",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Block Cliff Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
                 }
             ],
             "children": [
@@ -99,5 +103,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "3011598e-8296-5c93-c6b1-fef72f61fe04"
     },
-    "thumbnailGuid": "54f08925-5432-7950-7b6a-a5acbffca754"
+    "thumbnailGuid": "54f08925-5432-7950-7b6a-a5acbffca754",
+    "data_components": []
 }

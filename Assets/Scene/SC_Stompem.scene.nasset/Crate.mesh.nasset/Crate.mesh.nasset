@@ -8,7 +8,7 @@
     "instanceGuid": "efee694d-a2a1-120e-3c52-a46d8aa89b23",
     "children": [
         {
-            "typeGuid": "01a96e72-3c81-4cff-8642-46abd7aababd",
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
             "instanceGuid": "9daec343-8080-5e7f-9555-af64a9aa9ee2",
             "data_components": [
                 {
@@ -16,11 +16,6 @@
                     "name": "Crate Physics Body"
                 }
             ],
-            "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-                "type": 2,
-                "layer": 1,
-                "maximumAngularVelocity": 2700.0
-            },
             "children": [
                 {
                     "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
@@ -29,7 +24,13 @@
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Crate Wood Dark Collider"
-                        }
+                        },
+						{
+							"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+							"type": 2,
+							"layer": 1,
+							"maximumAngularVelocity": 2700.0
+						}
                     ],
                     "children": [
                         {
@@ -104,5 +105,6 @@
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "03561040-628e-e8c9-c3b3-05fed588e738"
     },
-    "thumbnailGuid": "b19639f2-cf30-78e6-270f-7664d3a3df21"
+    "thumbnailGuid": "b19639f2-cf30-78e6-270f-7664d3a3df21",
+    "data_components": []
 }

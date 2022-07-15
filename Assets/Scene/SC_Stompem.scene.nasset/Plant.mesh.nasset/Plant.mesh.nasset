@@ -26,10 +26,65 @@
                 "mesh": "dded2640-8a85-3be9-d4ed-cf80c2c30c32",
                 "material_instance": "5109c62b-7edb-f59e-58e4-7b8a713b444b"
             }
+        },
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "9a846453-c11e-71f4-5c8f-313c9f96717a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Plant Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+                    "instanceGuid": "614d1768-8ca2-9af9-36a7-0bec9fce7c78",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Plant Ground Collider"
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                            "instanceGuid": "e4a879a9-823f-663f-3d28-91e92af3add9",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "Plant Ground"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dded2640-8a85-3be9-d4ed-cf80c2c30c32",
+                                "material_instance": "5109c62b-7edb-f59e-58e4-7b8a713b444b"
+                            }
+                        }
+                    ],
+                    "508647ca-01f3-4930-9e33-4562692b719f": {
+                        "mesh": "dded2640-8a85-3be9-d4ed-cf80c2c30c32"
+                    },
+                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    }
+                }
+            ]
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "ad101783-69c0-9c17-786c-ca2e363c58c0"
     },
-    "thumbnailGuid": "e0457ebf-1669-f0b3-859b-5d38a2b45491"
+    "thumbnailGuid": "e0457ebf-1669-f0b3-859b-5d38a2b45491",
+    "data_components": []
 }
