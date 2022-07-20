@@ -14,6 +14,12 @@
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "Crate Metal Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 2,
+                    "layer": 1,
+                    "maximumAngularVelocity": 2700.0
                 }
             ],
             "children": [
@@ -24,13 +30,7 @@
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                             "name": "Crate Metal Metal Collider"
-                        },
-						{
-							"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-							"type": 2,
-							"layer": 1,
-							"maximumAngularVelocity": 2700.0
-						}
+                        }
                     ],
                     "children": [
                         {
