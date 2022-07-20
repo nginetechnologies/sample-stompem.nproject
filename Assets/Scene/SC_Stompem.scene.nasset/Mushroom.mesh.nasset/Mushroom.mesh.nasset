@@ -1,148 +1,94 @@
 {
     "guid": "c26126d5-91b9-84f4-645e-0d449fface88",
-    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-    "tags": [
-        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-    ],
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "instanceGuid": "efa2a4a9-d410-35d7-5a69-1e39ec347248",
+    "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
+        "radius": 4096.0
+    },
     "children": [
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
             "instanceGuid": "0a20a99d-ac23-d2c5-b660-a5aecac38bb4",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Mushroom Heart"
-                }
-            ],
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "6b1a9a64-1e19-3382-ef74-aead3e79b39b",
                 "material_instance": "72147c08-3f4d-d41a-0bed-e99870324f5c"
-            }
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Mushroom Heart"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "0a20a99d-ac23-d2c5-b660-a5aecac38bb4"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327"
+                }
+            ]
         },
         {
             "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
             "instanceGuid": "8695b8d8-f460-8ee2-78e5-151832b6e5ea",
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Mushroom Dirt"
-                }
-            ],
             "9f750482-b822-4d4b-be6a-9c135c614328": {
                 "stages": [
+                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60",
                     "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                    "86d22670-1f09-4246-ae43-ef7f1b16c977"
                 ]
             },
             "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
                 "mesh": "5b15e21c-cd30-82f6-5f95-aeb54dac8c46",
                 "material_instance": "44f98e4d-0d95-7e09-cda4-7f55ce9c0056"
-            }
-        },
-        {
-            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "90e2121f-abc1-43b4-8094-284422aeb033",
+            },
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Mushroom Physics Body"
+                    "name": "Mushroom Dirt"
                 },
                 {
-                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "41c55b4a-a708-6b35-4d27-0ac6679dc389",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Mushroom Heart Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "ecfdf9a4-cda5-32a7-c38f-20e567501984",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Mushroom Heart"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "6b1a9a64-1e19-3382-ef74-aead3e79b39b",
-                                "material_instance": "72147c08-3f4d-d41a-0bed-e99870324f5c"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "6b1a9a64-1e19-3382-ef74-aead3e79b39b"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "8695b8d8-f460-8ee2-78e5-151832b6e5ea"
                 },
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "145a8d9b-31cd-3cdb-579e-c4aff13e120b",
-                    "data_components": [
-                        {
-                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Mushroom Dirt Collider"
-                        }
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "f6e7a802-49fc-dc3f-f700-5614930247fc",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Mushroom Dirt"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "5b15e21c-cd30-82f6-5f95-aeb54dac8c46",
-                                "material_instance": "44f98e4d-0d95-7e09-cda4-7f55ce9c0056"
-                            }
-                        }
-                    ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "5b15e21c-cd30-82f6-5f95-aeb54dac8c46"
-                    },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
-                    }
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "tag": "13ca71b8-d868-4f7c-a0bb-c7585db11327"
                 }
             ]
         }
     ],
+    "default_camera": {
+        "position": [
+            0.0,
+            -4.9977,
+            0.0
+        ],
+        "rotation": [
+            -14.727,
+            -0.0,
+            -8.789
+        ],
+        "fieldOfView": 60.0,
+        "nearPlane": 0.1,
+        "farPlane": 128.0
+    },
+    "grid": {
+        "scale": [
+            1.0,
+            -1.0,
+            1.0
+        ]
+    },
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
         "scene": "c26126d5-91b9-84f4-645e-0d449fface88"
-    },
-    "thumbnailGuid": "a651f8b5-9b49-274a-60f2-6edfeacfa295",
-    "data_components": []
+    }
 }
