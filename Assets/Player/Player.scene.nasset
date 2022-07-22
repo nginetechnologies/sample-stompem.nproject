@@ -73,7 +73,9 @@
                     },
 					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
 						"type": 2,
-						"layer": 1
+						"layer": 1,
+						"overriddenMass": 80,
+						"body_flags": 8
 					},
                     "data_components": [
                         {
