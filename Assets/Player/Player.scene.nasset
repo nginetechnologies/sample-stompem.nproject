@@ -16,9 +16,9 @@
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
             "instanceGuid": "05d8c77e-c827-4bfa-b666-170762eb37d8",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
-                "jumpHeight": 3.0,
+                "jumpHeight": 2.0,
                 "walkingSpeed": 3.0,
-                "runningSpeed": 4.0,
+                "runningSpeed": 6.0,
                 "walkingTurnSpeed": 5.0,
                 "runningTurnSpeed": 7.5
             },
@@ -60,23 +60,30 @@
                         {
                             "typeGuid": "0d3920f0-883f-41fc-bf30-2079a383cb27",
                             "rotationSpeed": 20.0,
-                            "positionSpeed": 2.0,
+                            "positionSpeed": 6.0,
                             "verticalStep": 1.0
                         }
                     ]
                 },
                 {
-                    "typeGuid": "a413cecf-a566-413d-bb01-bd1317cd4bb2",
+                    "typeGuid": "1d21d79c-5708-46c9-8e57-ee9e86476b80",
                     "instanceGuid": "6bc2ecd6-fdc9-5bae-a5c7-5cc849bffc88",
                     "a413cecf-a566-413d-bb01-bd1317cd4bb2": {
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     },
-					"ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
-						"type": 2,
-						"layer": 1,
-						"overriddenMass": 80,
-						"body_flags": 8
-					},
+                    "ac11f104-0d79-4ecf-bae5-dbbbb344ad19": {
+                        "type": 2,
+                        "layer": 1,
+                        "overriddenMass": 80,
+                        "body_flags": 8
+                    },
+                    "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                        "position": [
+                            0.0,
+                            0.0,
+                            0.0
+                        ]
+                    },
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
@@ -97,14 +104,14 @@
                                 "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                             },
                             "a87d82b2-1cd5-4b81-8103-85248c61d585": {
-                                "radius": 0.5,
+                                "radius": 0.25,
                                 "half_height": 0.5
                             },
                             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                                 "position": [
                                     0.0,
                                     0.0,
-                                    1.0
+                                    0.0
                                 ]
                             }
                         },
@@ -117,9 +124,14 @@
                                     -0.0,
                                     180.0
                                 ],
-								"scale": [
-									0.66
-								]
+                                "position": [
+                                    0.0,
+                                    0.0,
+                                    -0.6
+                                ],
+                                "scale": [
+                                    0.4
+                                ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                                 "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
