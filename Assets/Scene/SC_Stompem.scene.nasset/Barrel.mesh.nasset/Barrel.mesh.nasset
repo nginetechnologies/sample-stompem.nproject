@@ -8,61 +8,39 @@
     "instanceGuid": "ce580159-5318-1dd5-2ca6-cd06c75fef28",
     "children": [
         {
-            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-            "instanceGuid": "c1b5aaae-db1b-d8bf-83e2-5fa3c36d726c",
+            "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
+            "instanceGuid": "6835ee09-7988-27fe-fc2b-a9dde31e7b22",
             "data_components": [
                 {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Barrel Physics Body"
+                    "name": "Barrel Wood Dark Collider"
                 },
                 {
                     "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-                    "type": 0
+                    "type": 2,
+                    "layer": 1,
+                    "maximumAngularVelocity": 2700.0
                 }
             ],
             "children": [
                 {
-                    "typeGuid": "508647ca-01f3-4930-9e33-4562692b719f",
-                    "instanceGuid": "6835ee09-7988-27fe-fc2b-a9dde31e7b22",
+                    "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
+                    "instanceGuid": "bc365482-596e-4d34-c619-4457e145cc76",
                     "data_components": [
                         {
                             "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                            "name": "Barrel Wood Dark Collider"
-                        },
-						{
-							"typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
-							"type": 2,
-							"layer": 1,
-							"maximumAngularVelocity": 2700.0
-						}
-                    ],
-                    "children": [
-                        {
-                            "typeGuid": "de0b2bc1-2e72-4739-a749-f5281e0de55a",
-                            "instanceGuid": "bc365482-596e-4d34-c619-4457e145cc76",
-                            "data_components": [
-                                {
-                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Barrel Wood Dark"
-                                }
-                            ],
-                            "9f750482-b822-4d4b-be6a-9c135c614328": {
-                                "stages": [
-                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
-                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
-                                ]
-                            },
-                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-                                "mesh": "3079e7ff-abd3-6c7d-5019-7dcfd7e70a80",
-                                "material_instance": "db71b29f-61e7-f2e5-887e-c4236dc804af"
-                            }
+                            "name": "Barrel Wood Dark"
                         }
                     ],
-                    "508647ca-01f3-4930-9e33-4562692b719f": {
-                        "mesh": "3079e7ff-abd3-6c7d-5019-7dcfd7e70a80"
+                    "9f750482-b822-4d4b-be6a-9c135c614328": {
+                        "stages": [
+                            "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                            "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                        ]
                     },
-                    "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
-                        "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+                    "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                        "mesh": "3079e7ff-abd3-6c7d-5019-7dcfd7e70a80",
+                        "material_instance": "db71b29f-61e7-f2e5-887e-c4236dc804af"
                     }
                 },
                 {
@@ -103,7 +81,13 @@
                         "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
                     }
                 }
-            ]
+            ],
+            "508647ca-01f3-4930-9e33-4562692b719f": {
+                "mesh": "3079e7ff-abd3-6c7d-5019-7dcfd7e70a80"
+            },
+            "10dceba7-be9f-4a9d-9902-6f51bed634ab": {
+                "physical_material": "db5dc618-2cfe-44e9-a319-69c503d090e7"
+            }
         }
     ],
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
