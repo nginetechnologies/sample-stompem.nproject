@@ -1,7 +1,7 @@
 {
-    "02739722-df9c-24b5-be13-a489971cef5f": {
+    "00bb60ac-14f4-08fc-ee27-469511a2516f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Cyan 600.mtli.nasset"
+        "path": "Assets/Witch/Material Instances/Skin.mtli.nasset"
     },
     "03561040-628e-e8c9-c3b3-05fed588e738": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -54,9 +54,22 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "0a4f4191-e298-8160-2918-665a2ea55d45": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Skin.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "0b8ad4e2-dbf6-5328-782a-f93765cb18d9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Fence Low Corner.mesh.nasset/Thumbnails/Fence Low Corner.mesh.nasset.tex.nasset"
+    },
+    "0c0a6f43-fc16-f8f5-3d9f-7e1cb666f777": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Z Face.meshskin.nasset"
     },
     "0c1d78aa-7c17-13fb-105c-9b272c4f6cbe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -121,10 +134,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "161d05b1-71ba-e7a7-dfb1-dd8540aff915": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Amber 500.mtli.nasset"
-    },
     "165dcb40-45eb-4ea8-a65b-1c7dd7f0a3a0": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -139,13 +148,25 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
+    "167f6474-bf92-ece1-7e93-fc690a103e57": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Fuschia 600.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "16929614-769f-1015-c783-d211396a65fe": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Spikes.mesh.nasset/Thumbnails/Spikes.mesh.nasset.tex.nasset"
     },
-    "17544bc4-dc88-c210-6c3b-99966b285701": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Witch/Textures/T_Witch_D.tex.nasset"
+    "16deeb76-8c3b-8597-01f5-bef2625108b1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "175ace30-b493-44c4-1f41-60c9a5feeddd": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -188,6 +209,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "1f1c1a50-2a66-914a-7f13-cd36af3abdae": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Witch/Material Instances/Z Face.mtli.nasset"
     },
     "203b1489-c9bc-34a5-f520-1e6267598795": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -236,6 +261,16 @@
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/Animations/Jump_Loop.anim.nasset"
+    },
+    "2605188e-1883-68e2-4e09-54aeb2ed7318": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.meshskin.nasset"
+    },
+    "26a90f22-be67-16f1-67e3-83d7626e48c6": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Cyan 600.meshskin.nasset"
     },
     "27a4f219-6095-1c77-cc47-d047b3e08918": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -296,6 +331,11 @@
     "2ccd05b6-5677-6fb1-dd0d-7f31a9fdd5f2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Spikes LRG.mesh.nasset/Thumbnails/Spikes LRG.mesh.nasset.tex.nasset"
+    },
+    "2d1558bd-5639-fd8a-0be1-5192c0c60ca8": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Blue 700.meshskin.nasset"
     },
     "2dd09355-9716-8f3a-0b43-798076405619": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -358,6 +398,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Block Snow Hexagon Low.mesh.nasset/Thumbnails/Block Snow Hexagon Low.mesh.nasset.tex.nasset"
     },
+    "371bf800-75c0-348b-b1e1-560c4becc04e": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
     "37a70f36-aff7-2002-b75b-38e5eb042116": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Block Slope Half.mesh.nasset/Thumbnails/Block Slope Half.mesh.nasset.tex.nasset"
@@ -418,6 +463,10 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Robot/SK_Robot.scene.nasset/SK Robot Export.mesh.nasset/SK Robot Export Black.meshskin.nasset"
     },
+    "407f61ea-3fd4-5777-383f-dbc2c3ba841c": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Witch/Material Instances/Purple 700.mtli.nasset"
+    },
     "409de468-0ed6-79ca-9af1-bbe3cd361e83": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -430,6 +479,15 @@
     "4213e2b4-afbf-ceac-7f23-daeb50a3316d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Block Level.mesh.nasset/Thumbnails/Block Level.mesh.nasset.tex.nasset"
+    },
+    "42f5b733-6d0e-0783-768b-517ad5cc9f4f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Witch/Material Instances/Cyan 600.mtli.nasset"
+    },
+    "44091028-9ab1-d329-c3cf-4981f0eabdf5": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Fuschia 600.meshskin.nasset"
     },
     "4430be43-d94e-4817-3f31-c0d67d54e623": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -554,14 +612,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "50e64fa6-132f-380f-68a7-69c4c420bc76": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Skin.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
     "50fc8d49-9905-15c3-0652-f3e1904d6357": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Block Hexagon Low.mesh.nasset/Thumbnails/Block Hexagon Low.mesh.nasset.tex.nasset"
@@ -588,10 +638,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "52c86e0f-acdb-37d1-7a2d-e2c921f5a801": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Blue 700.mtli.nasset"
-    },
     "5339f3c4-29a5-9685-17af-a3827e6226fe": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -607,6 +653,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "53c95600-0571-a622-1758-8829cf8063d6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Witch/Textures/T_Witch_D.tex.nasset"
     },
     "540ba525-52ef-05e0-b9a0-531715a3a86e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -640,14 +690,6 @@
     "5565f736-f435-ebf0-7de4-a7a0c1a66110": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SM_Water_Subdiv.scene.nasset/Thumbnails/SM_Water_Subdiv.scene.nasset.tex.nasset"
-    },
-    "55a05f77-b687-1363-7b9d-17e2e3836c36": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Blue 700.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
     },
     "58adaa62-378a-4d12-a2f2-3cb5348ceee1": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -703,6 +745,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Hedge Corner.mesh.nasset/Thumbnails/Hedge Corner.mesh.nasset.tex.nasset"
     },
+    "5cbfb947-f20a-3a18-f76c-1fd1465c38e4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Witch/Material Instances/Fuschia 600.mtli.nasset"
+    },
     "5ce342dc-7f06-e7d0-ccf9-655d5064c037": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -719,11 +765,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "5ddf995a-e48f-5c06-e462-26950f1e6d22": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "5df5f53e-5b27-b560-26f6-e8895a68bb4d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -782,6 +823,11 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "63388ccf-9959-03db-b9bd-68e6d867da44": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK_Witch.scene.nasset"
+    },
     "633b412b-7545-05f1-db82-1f88aed948a0": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -821,14 +867,6 @@
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Arrow.mesh.nasset/Arrow Wood.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "69ce3ad7-92e7-ac5b-13df-0b9f5627d750": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
     "6a559d18-9b57-f379-4e49-14869fe6b8e7": {
@@ -898,11 +936,6 @@
     "7524d102-e191-c4b5-c3cb-ea84d74892b9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Stomp_Enviro.tex.nasset"
-    },
-    "752b8507-8e4c-b935-7a8b-2c57a93caaf9": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.meshskin.nasset"
     },
     "75ef0394-5757-6e92-a020-e2359d96a21d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -1002,9 +1035,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "82e42c22-703a-1b8a-3a52-546d90cac94b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Skin.mtli.nasset"
+    "82f54c6f-3a35-d4f0-90af-38acef23e585": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.meshskin.nasset"
     },
     "83f3f376-cd02-0917-bf28-22be5309dfa6": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1018,11 +1052,6 @@
     "8478c899-8d01-7b80-dd87-b85f5c866153": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Barrel.mesh.nasset/Thumbnails/Barrel.mesh.nasset.tex.nasset"
-    },
-    "87250240-e452-f147-7f1a-34d4aea91444": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Skin.meshskin.nasset"
     },
     "87d97cb5-ebe7-d974-11f7-eed60aa07510": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1047,14 +1076,6 @@
     "8a151491-9d08-7fe5-900e-85aeb7cae92e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Robot/SK_Robot.scene.nasset/Thumbnails/SK_Robot.scene.nasset.tex.nasset"
-    },
-    "8ae06cdf-82a7-2736-9d23-a5e968d6d65e": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
     },
     "8ba27e32-4b47-7a6e-c882-a08d0942870e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1134,11 +1155,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "92b16105-aead-7431-b525-ee80a3e45ec0": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Cyan 600.meshskin.nasset"
-    },
     "9325ba49-a880-ffa7-e58d-b69ac48b3cc9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Material Instances/Thumbnails/Rock.mtli.nasset.tex.nasset"
@@ -1214,6 +1230,14 @@
     "9ae3861b-80f6-3dc1-6eaf-d78716b32b5e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Lever Handle.mesh.nasset/Thumbnails/Lever Handle.mesh.nasset.tex.nasset"
+    },
+    "9c215d83-8147-0f84-1e38-ed18b4f5f668": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "9e201f2a-7e0c-9ae3-3dae-7b174d67b664": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1328,11 +1352,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "a9b79267-c651-460a-7f61-8badf6a591f6": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Blue 700.meshskin.nasset"
-    },
     "aab1d763-01c2-7bef-7892-d209d033b536": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1367,6 +1386,14 @@
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Plant.mesh.nasset/Plant.mesh.nasset"
     },
+    "ad531d04-0638-9700-c5b0-888dadf0ae0d": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Blue 700.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
     "ad539ceb-375d-2cdb-821f-676842d41005": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/Material Instances/Thumbnails/Ground.mtli.nasset.tex.nasset"
@@ -1379,13 +1406,10 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "b043ec78-5eec-ab5d-2ae9-345cb16bfd67": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Z Face.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
+    "af26515a-655f-589c-5800-10fe6c395bcb": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Skin.meshskin.nasset"
     },
     "b0489c53-a7eb-a1ad-c795-18b5243d0122": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1394,6 +1418,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "b049b286-4cf8-0097-683a-2f59b5810181": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Witch/Material Instances/Amber 500.mtli.nasset"
     },
     "b19639f2-cf30-78e6-270f-7664d3a3df21": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1458,6 +1486,14 @@
     "b9d7308e-d1aa-ce16-059c-7a7f873f659b": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Flag.mesh.nasset/Thumbnails/Flag.mesh.nasset.tex.nasset"
+    },
+    "ba31b23e-c9f1-67dd-399a-01bb6a0bffd1": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Z Face.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
     },
     "baa0ec3d-7f04-c702-041e-46fb683ec680": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1537,10 +1573,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "c535323c-965b-9ea7-8bc6-2e368068e16b": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Z Face.mtli.nasset"
-    },
     "c58b206e-059e-a3d0-22b4-3eff8f7c705a": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1579,14 +1611,6 @@
         "path": "Assets/Scene/Material Instances/Default.mtli.nasset",
         "thumbnail": "9e21b649-77bb-148f-2b19-4bf19380f2d9"
     },
-    "ca52a522-ae66-3b8c-776b-57a192aed152": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Fuschia 600.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
     "ca8e2ffb-6dad-9f9b-6095-60f124524f05": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1608,14 +1632,6 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Hedge Corner.mesh.nasset/Hedge Corner Ground.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
-    },
-    "ccdef198-0091-9706-ad6a-0ae9a379c793": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1657,15 +1673,6 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
-    },
-    "d3d6b4cf-4d4d-758e-94da-464ff1ab2c49": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Fuschia 600.mtli.nasset"
-    },
-    "d3ff26d1-955d-5919-fabc-911311e298f0": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Z Face.meshskin.nasset"
     },
     "d4f99c8d-b2c6-af43-6626-16bfb7ff2a05": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1711,16 +1718,6 @@
             "3db9a07a-f18a-4fe6-87e9-999ef466091a"
         ]
     },
-    "da5cf409-247f-7bfc-6163-5597cde38470": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK_Witch.scene.nasset"
-    },
-    "da87ea98-ba17-0432-9d14-b915d5beae7b": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.meshskin.nasset"
-    },
     "db4ed462-95b7-6e51-06dc-7db33c86d0d7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1734,6 +1731,10 @@
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Scene/Material Instances/Wood Dark.mtli.nasset",
         "thumbnail": "32fe94a2-c1ce-9fde-d268-e7085b0e01c4"
+    },
+    "dc7a8245-7194-bdd6-d846-cd7cdc8f24b4": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Witch/Material Instances/Blue 700.mtli.nasset"
     },
     "dded2640-8a85-3be9-d4ed-cf80c2c30c32": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1755,6 +1756,14 @@
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Block Half.mesh.nasset/Block Half Dirt.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ]
+    },
+    "e06bfb9e-2814-9262-6ab8-6df1fbbd9805": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Cyan 600.mesh.nasset",
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
@@ -1815,11 +1824,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Coin Bronze.mesh.nasset/Thumbnails/Coin Bronze.mesh.nasset.tex.nasset"
     },
-    "ed091681-3834-de0c-1ddc-f6a9135f8527": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Fuschia 600.meshskin.nasset"
-    },
     "ed607c07-e87b-b9c3-ddc8-745e45585d9d": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Robot/Material Instances/Eyes.mtli.nasset",
@@ -1859,10 +1863,6 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
-    "f1927247-f1bd-b848-5830-2378d2d10ea5": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Witch/Material Instances/Purple 700.mtli.nasset"
-    },
     "f1ebfa2c-e867-c421-39e9-78342de39c57": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1871,14 +1871,6 @@
     "f3ff84f2-4d0b-8948-594e-6eea87cfb642": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Ladder.mesh.nasset/Thumbnails/Ladder.mesh.nasset.tex.nasset"
-    },
-    "f41e0eca-117d-2948-e96f-438685fc75db": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Cyan 600.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ]
     },
     "f486867e-c411-c908-b1f7-a679c0318b73": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1920,6 +1912,14 @@
     "fc190bf1-793c-6b53-16d0-7ce284e746be": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Scene/SC_Stompem.scene.nasset/Tree.mesh.nasset/Thumbnails/Tree.mesh.nasset.tex.nasset"
+    },
+    "fc9b9f44-671d-7765-d04b-057bb51ce6d2": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
     },
     "fd46712b-e9ff-553f-e1ea-00e93c91084f": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",

@@ -1,12 +1,12 @@
 {
     "guid": "165dcb40-45eb-4ea8-a65b-1c7dd7f0a3a0",
     "source": "../../../A_Witch_Jump_Loop.fbx",
-    "skeleton": "5ddf995a-e48f-5c06-e462-26950f1e6d22",
+    "skeleton": "371bf800-75c0-348b-b1e1-560c4becc04e",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "a868768e-bcb0-4dd7-902a-631c8ef8e885",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "5ddf995a-e48f-5c06-e462-26950f1e6d22"
+        "skeleton": "371bf800-75c0-348b-b1e1-560c4becc04e"
     },
     "data_components": [
         {

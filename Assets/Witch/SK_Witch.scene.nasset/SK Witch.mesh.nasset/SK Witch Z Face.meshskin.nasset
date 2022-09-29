@@ -1,7 +1,7 @@
 {
-    "guid": "d3ff26d1-955d-5919-fabc-911311e298f0",
+    "guid": "0c0a6f43-fc16-f8f5-3d9f-7e1cb666f777",
     "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-    "instanceGuid": "2047b562-038b-f790-e222-99c73a9802bc",
+    "instanceGuid": "1bdb024d-288f-b513-9975-fdd368637c2e",
     "data_components": [],
     "9f750482-b822-4d4b-be6a-9c135c614328": {
         "stages": [
@@ -10,11 +10,11 @@
         ]
     },
     "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
-        "mesh": "d3ff26d1-955d-5919-fabc-911311e298f0",
-        "material_instance": "b043ec78-5eec-ab5d-2ae9-345cb16bfd67"
+        "mesh": "0c0a6f43-fc16-f8f5-3d9f-7e1cb666f777",
+        "material_instance": "ba31b23e-c9f1-67dd-399a-01bb6a0bffd1"
     },
     "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
-        "skin": "c535323c-965b-9ea7-8bc6-2e368068e16b"
+        "skin": "1f1c1a50-2a66-914a-7f13-cd36af3abdae"
     },
     "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c"
 }

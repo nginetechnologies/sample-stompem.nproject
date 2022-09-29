@@ -1,12 +1,12 @@
 {
     "guid": "0f881ad4-912c-4b82-8472-2eca7ba716f0",
     "source": "../../../A_Witch_Jump_Start.fbx",
-    "skeleton": "5ddf995a-e48f-5c06-e462-26950f1e6d22",
+    "skeleton": "371bf800-75c0-348b-b1e1-560c4becc04e",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "9d99035f-911c-83bb-a271-60c124bf8df2",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "5ddf995a-e48f-5c06-e462-26950f1e6d22"
+        "skeleton": "371bf800-75c0-348b-b1e1-560c4becc04e"
     },
     "data_components": [
         {
