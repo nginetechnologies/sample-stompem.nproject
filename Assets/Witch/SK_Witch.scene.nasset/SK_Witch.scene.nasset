@@ -1,0 +1,31 @@
+{
+    "guid": "da5cf409-247f-7bfc-6163-5597cde38470",
+    "source": "../SK_Witch.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "a2def830-905a-1aef-5040-72e8eb2d3a67",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Witch"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "aa98424f-1178-4962-8d6c-d2dda6f58627",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Witch"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "69ce3ad7-92e7-ac5b-13df-0b9f5627d750"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "da5cf409-247f-7bfc-6163-5597cde38470"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "guid": "5aaeca61-9708-4679-bf2d-8661ba4c819a",
+    "source": "../../../A_Witch_Run.fbx",
+    "skeleton": "5ddf995a-e48f-5c06-e462-26950f1e6d22",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "004f498c-3e74-e518-26c6-f400ba4d6e5e",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "5ddf995a-e48f-5c06-e462-26950f1e6d22"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "5aaeca61-9708-4679-bf2d-8661ba4c819a"
+        }
+    ]
+}
