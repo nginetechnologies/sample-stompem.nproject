@@ -134,45 +134,12 @@
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": "205c8c2a-6c0e-61a0-24e0-de2c1f4b463b"
+                                "scene": "63388ccf-9959-03db-b9bd-68e6d867da44"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Robot character scene"
-                                },
-                                {
-                                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                    "templateInstanceGuid": "75c2a281-875c-f6f3-506c-ac58bf83b0b4"
-                                }
-                            ],
-                            "children": [
-                                {
-                                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-                                    "instanceGuid": "97b785be-3829-4440-810f-2b7bc94b70e5",
-                                    "data_components": [
-                                        {
-                                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                            "flags": 4
-                                        },
-                                        {
-                                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
-                                            "move_animations": [
-                                                "67c6fd74-abd9-4f05-9a8d-1bd055d85cd4",
-                                                "bf6ad3ed-e5bd-4a16-9673-c4f1fbfeb2ec",
-                                                "5aaeca61-9708-4679-bf2d-8661ba4c819a"
-                                            ],
-                                            "jump_animations": [
-                                                "0f881ad4-912c-4b82-8472-2eca7ba716f0",
-                                                "165dcb40-45eb-4ea8-a65b-1c7dd7f0a3a0",
-                                                "58adaa62-378a-4d12-a2f2-3cb5348ceee1"
-                                            ]
-                                        },
-                                        {
-                                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                                            "templateInstanceGuid": "7b8a64e4-9a04-ee09-6a62-106fabab9caf"
-                                        }
-                                    ]
+                                    "name": "Character scene"
                                 }
                             ]
                         }
