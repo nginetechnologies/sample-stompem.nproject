@@ -1512,6 +1512,9 @@
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
     },
+    "cb5e5b64-23df-9e88-0494-1849e9d4df16": {
+        "path": "Assets/Scene/SC_Stompem.scene.nasset/Water1.nasset"
+    },
     "cbc3f71e-7012-43ad-db53-04459d3ac762": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
