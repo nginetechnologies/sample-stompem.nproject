@@ -1530,7 +1530,8 @@
     "d0d915f5-d7f9-438c-95dd-37af58d3fb5e": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
-        "thumbnail": "8e20f14e-a5f8-8548-1bbe-9aae10bc312c"
+        "thumbnail": "8e20f14e-a5f8-8548-1bbe-9aae10bc312c",
+        "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ]
     },
     "d16caf52-e37b-d96e-d2a7-ff3b9424ec7e": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
