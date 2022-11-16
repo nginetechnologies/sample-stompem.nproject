@@ -665,6 +665,12 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Purple 700.meshskin.nasset"
     },
+    "5a3f18e7-4fe4-48d0-b937-e1ba7c24999b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/M_Skybox.mtli.nasset",
+        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+    },
     "5b15e21c-cd30-82f6-5f95-aeb54dac8c46": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1231,6 +1237,10 @@
         "tags": [
             "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
         ]
+    },
+    "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
     },
     "a778f972-f56d-0a42-3465-c851e1713681": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
