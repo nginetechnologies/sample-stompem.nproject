@@ -90,47 +90,47 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 80000
+                "size": 640000
             },
             {
                 "level": 1,
-                "offset": 80000,
-                "size": 20000
+                "offset": 640000,
+                "size": 160000
             },
             {
                 "level": 2,
-                "offset": 100000,
-                "size": 5000
+                "offset": 800000,
+                "size": 40000
             },
             {
                 "level": 3,
-                "offset": 105000,
-                "size": 1352
+                "offset": 840000,
+                "size": 10000
             },
             {
                 "level": 4,
-                "offset": 106352,
-                "size": 392
+                "offset": 850000,
+                "size": 2500
             },
             {
                 "level": 5,
-                "offset": 106744,
-                "size": 72
+                "offset": 852500,
+                "size": 576
             },
             {
                 "level": 6,
-                "offset": 106816,
-                "size": 32
+                "offset": 853076,
+                "size": 144
             },
             {
                 "level": 7,
-                "offset": 106848,
-                "size": 8
+                "offset": 853220,
+                "size": 36
             },
             {
                 "level": 8,
-                "offset": 106856,
-                "size": 8
+                "offset": 853256,
+                "size": 4
             }
         ]
     },
