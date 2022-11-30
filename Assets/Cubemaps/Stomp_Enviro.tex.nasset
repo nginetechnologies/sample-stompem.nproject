@@ -7,6 +7,7 @@
         1024.0
     ],
     "preset": 9,
+    "intensity_factor": 20,
     "usage_flags": 6,
     "array_size": 6,
     "bc_data": {
@@ -15,57 +16,57 @@
             {
                 "level": 0,
                 "offset": 0,
-                "size": 6291456
+                "size": 50331648
             },
             {
                 "level": 1,
-                "offset": 6291456,
-                "size": 1572864
+                "offset": 50331648,
+                "size": 12582912
             },
             {
                 "level": 2,
-                "offset": 7864320,
-                "size": 393216
+                "offset": 62914560,
+                "size": 3145728
             },
             {
                 "level": 3,
-                "offset": 8257536,
-                "size": 98304
+                "offset": 66060288,
+                "size": 786432
             },
             {
                 "level": 4,
-                "offset": 8355840,
-                "size": 24576
+                "offset": 66846720,
+                "size": 196608
             },
             {
                 "level": 5,
-                "offset": 8380416,
-                "size": 6144
+                "offset": 67043328,
+                "size": 49152
             },
             {
                 "level": 6,
-                "offset": 8386560,
-                "size": 1536
+                "offset": 67092480,
+                "size": 12288
             },
             {
                 "level": 7,
-                "offset": 8388096,
-                "size": 384
+                "offset": 67104768,
+                "size": 3072
             },
             {
                 "level": 8,
-                "offset": 8388480,
-                "size": 96
+                "offset": 67107840,
+                "size": 768
             },
             {
                 "level": 9,
-                "offset": 8388576,
-                "size": 96
+                "offset": 67108608,
+                "size": 192
             },
             {
                 "level": 10,
-                "offset": 8388672,
-                "size": 96
+                "offset": 67108800,
+                "size": 48
             }
         ]
     },
