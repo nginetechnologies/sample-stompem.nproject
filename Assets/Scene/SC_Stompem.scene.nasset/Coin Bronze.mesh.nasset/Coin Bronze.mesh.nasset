@@ -29,14 +29,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
-                    "rotation": [
-                        180.0,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
                     "name": "New Collectible Component"
                 },
@@ -187,5 +179,12 @@
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
-    "data_components": []
+    "data_components": [{
+		"typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+		"rotation": [
+			180.0,
+			0.0,
+			0.0
+		]
+	}]
 }

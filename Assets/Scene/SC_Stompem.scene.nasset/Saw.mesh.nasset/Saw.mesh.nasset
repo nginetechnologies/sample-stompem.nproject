@@ -70,14 +70,6 @@
             },
             "data_components": [
                 {
-                    "typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
-                    "rotation": [
-                        1.0,
-                        0.0,
-                        360.0
-                    ]
-                },
-                {
                     "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
                     "templateInstanceGuid": "e18c2a3d-5542-1f95-e485-acc5313c0b6a"
                 },
@@ -176,5 +168,12 @@
     "tags": [
         "3db9a07a-f18a-4fe6-87e9-999ef466091a"
     ],
-    "data_components": []
+    "data_components": [{
+		"typeGuid": "a718cdb2-ef62-47c4-a968-8862f78cc08c",
+		"rotation": [
+			1.0,
+			0.0,
+			360.0
+		]
+	}]
 }
