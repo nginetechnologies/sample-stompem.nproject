@@ -47,6 +47,16 @@
     ],
     "children": [
         {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "instanceGuid": "1ce5797a-b27a-c383-bcaf-96f303ffbeab",
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "3d5c353f-fc00-a5cc-59c4-662804618393",
+                "looping": true,
+                "autoplay": true,
+                "volume": 0.2
+            }
+        },
+        {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "f7189061-5ebf-16bd-8e4f-2f5b6d81e7b1",
             "data_components": [

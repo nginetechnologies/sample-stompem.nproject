@@ -32,6 +32,10 @@
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
         "path": "Assets/Witch/SK_Witch.scene.nasset/SK Witch.mesh.nasset/SK Witch Amber 500.meshskin.nasset"
     },
+    "3d5c353f-fc00-a5cc-59c4-662804618393": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "path": "Assets/Audio/ambient.audio.nasset"
+    },
     "43746edc-79d0-41aa-8004-d16853627700": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
