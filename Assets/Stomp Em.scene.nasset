@@ -4724,39 +4724,6 @@
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "1cd24461-04db-8dd5-9503-fe364a954170",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -4.8989,
-                    1.8098,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Test Asset",
-                    "flags": 2
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "1128bc56-00b1-4309-bc05-ec6ea73ec0a9",
-                            "flags": 2
-                        }
-                    ]
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "9044e5a2-a2b6-4277-90b9-b7987e830c7a"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "9563ca02-7e9c-3163-5f76-35b2d7416194",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "position": [
@@ -4774,39 +4741,6 @@
             ],
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
                 "scene": "49f90c1a-e72c-835d-4581-6a47f021d058"
-            }
-        },
-        {
-            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-            "instanceGuid": "59f14030-6430-ca6b-5a4e-c4c6846e7ed1",
-            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
-                "position": [
-                    -5.2262,
-                    1.7496,
-                    0.0
-                ]
-            },
-            "data_components": [
-                {
-                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                    "name": "Test Asset",
-                    "flags": 2
-                }
-            ],
-            "children": [
-                {
-                    "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-                    "data_components": [
-                        {
-                            "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                            "templateInstanceGuid": "1128bc56-00b1-4309-bc05-ec6ea73ec0a9",
-                            "flags": 2
-                        }
-                    ]
-                }
-            ],
-            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "9044e5a2-a2b6-4277-90b9-b7987e830c7a"
             }
         },
         {
