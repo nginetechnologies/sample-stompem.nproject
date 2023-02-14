@@ -175,7 +175,7 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "03c624d3-f50e-b9ef-4afd-2f43b13720d5"
+                "scene": "4810ca29-7225-4eb1-bc8e-3ee6369fe6cc"
             },
             "data_components": [
                 {
@@ -425,7 +425,7 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8eef7915-28fe-30b9-b20d-b976960d8916"
+                "scene": "2893eea0-2274-42e4-9c5c-03417ff10699"
             },
             "data_components": [
                 {
@@ -633,7 +633,7 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8eef7915-28fe-30b9-b20d-b976960d8916"
+                "scene": "2893eea0-2274-42e4-9c5c-03417ff10699"
             },
             "data_components": [
                 {
@@ -661,7 +661,7 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "8eef7915-28fe-30b9-b20d-b976960d8916"
+                "scene": "2893eea0-2274-42e4-9c5c-03417ff10699"
             },
             "data_components": [
                 {
@@ -689,7 +689,7 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "03c624d3-f50e-b9ef-4afd-2f43b13720d5"
+                "scene": "4810ca29-7225-4eb1-bc8e-3ee6369fe6cc"
             },
             "data_components": [
                 {
@@ -717,7 +717,7 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "03c624d3-f50e-b9ef-4afd-2f43b13720d5"
+                "scene": "4810ca29-7225-4eb1-bc8e-3ee6369fe6cc"
             },
             "data_components": [
                 {
@@ -4677,7 +4677,9 @@
             "instanceGuid": "18346473-407b-41da-9738-296707036b30",
             "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                 "rotation": [
-                    -90, 0, 0
+                    -90,
+                    0,
+                    0
                 ]
             },
             "data_components": [

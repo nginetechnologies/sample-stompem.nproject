@@ -1,4 +1,9 @@
 {
+    "8c490477-4d57-1530-9184-455874715222": {
+        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
+        "path": "Assets.nassetdb",
+        "name": "Stomp Em"
+    },
     "c700b738-d5d7-48bb-a8c4-d090d7ae091d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
@@ -7,14 +12,12 @@
     "d0d915f5-d7f9-438c-95dd-37af58d3fb5e": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
+        "name": "Stomp Em",
         "thumbnail": "8e20f14e-a5f8-8548-1bbe-9aae10bc312c"
-    },
-    "ed75b85a-a541-49ea-ac5f-fa1790f45ac7": {
-        "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
-        "path": "Assets.nassetdb"
     },
     "guid": "8c490477-4d57-1530-9184-455874715222",
     "imported_assets": [
+        "4810ca29-7225-4eb1-bc8e-3ee6369fe6cc",
         "03561040-628e-e8c9-c3b3-05fed588e738",
         "03c624d3-f50e-b9ef-4afd-2f43b13720d5",
         "03e0fcfb-5e49-ba1b-e89a-779fcd4c21af",
@@ -25,9 +28,11 @@
         "07540564-5dd1-ce4a-d4b9-91e6a05d8194",
         "07ce1f8a-6033-ce9c-f18a-dbee8cc4530d",
         "0b2c854d-414b-4a0b-9299-a58c253079cc",
+        "0b610c47-bb94-badc-5ed5-1c83042e0c26",
         "0b645ed9-e61a-4795-a689-a634f6818fa5",
         "0b8ad4e2-dbf6-5328-782a-f93765cb18d9",
         "0c1d78aa-7c17-13fb-105c-9b272c4f6cbe",
+        "0c37fadb-3224-0729-ab1e-e2d182a647ec",
         "0d9fb5c4-0195-78a8-e9b8-6bfabe7fbbf9",
         "0e02c4c3-1a82-0a4b-8ffa-de19d299a7f9",
         "0e799499-3067-84a4-1698-234f7c54af42",
@@ -56,6 +61,7 @@
         "26dc6fe0-4edd-183c-6f42-897581fae5fe",
         "27a4f219-6095-1c77-cc47-d047b3e08918",
         "28610944-b65c-1019-0fff-5fccf295b6d7",
+        "2893eea0-2274-42e4-9c5c-03417ff10699",
         "296b54f2-46c7-1954-e371-7fb19abc6280",
         "29ce3bec-a040-2c18-f8dd-e4bdac8cfa84",
         "29ce810e-6180-85dc-eb18-249e68fbc0dd",
@@ -82,6 +88,7 @@
         "389ac388-b68e-4802-3987-3e8c68472b04",
         "3945aeee-c61e-2c26-8489-3ccdb2c9e072",
         "3a8ccb81-7665-2360-ecfa-ab97eca7fe74",
+        "3a982a3d-bcdc-3576-374e-7d60ff7d97cb",
         "3bc61a14-adf1-34b5-15a6-70d17eb13089",
         "3c71e108-4430-0da0-3756-c9351fa7d607",
         "3d0a4f4c-155b-fb25-fab6-9cce2ea75043",
@@ -150,6 +157,7 @@
         "6056fc05-d097-c7eb-0ed1-5ff01413442e",
         "609da2cb-e4a0-947c-e5d7-9d4743f792cb",
         "60e06f56-abb8-a077-95d0-36837832ea28",
+        "61100cf7-ea52-1e21-5807-d3a7fc917bcf",
         "632ed465-d3d7-e6fe-a042-20d344f94c11",
         "6338756a-1fac-6c5d-ce77-96dda560080f",
         "633b412b-7545-05f1-db82-1f88aed948a0",
@@ -173,6 +181,7 @@
         "73b5a02d-41ac-a6c2-b88e-b04dc75d5392",
         "73f6ecc6-ee30-3e37-1d3d-bd4888b6cdcc",
         "7524d102-e191-c4b5-c3cb-ea84d74892b9",
+        "762aa592-48c5-401c-a1a3-997e85e9f1a0",
         "778d5d76-b4f2-4155-eac0-4232ff01e229",
         "78fd4398-cf95-980b-a1f2-b6494ee99050",
         "79b7aa36-3b2f-880e-7ec0-b036078c3018",
@@ -325,6 +334,7 @@
         "f43b1ef0-ca79-fecf-da12-a409c99ad3b3",
         "f66beb31-12da-67b0-2a5b-94f4bf13b546",
         "f69757ad-3906-7508-9cb4-9e8da15c903e",
+        "f6a49598-13c0-32a7-ac2e-71bad80ed913",
         "f730ad41-945e-be1d-441b-299c0763eb4e",
         "f736ee26-43b8-95d6-22af-88ae3aa8693a",
         "f7b58e89-67b0-5016-aaac-ebe4430622eb",
