@@ -243,14 +243,8 @@
                 ]
             },
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "23dc6951-ac5f-8d1e-fd05-153ec04f9afd"
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "395510a1-e422-ff03-c02a-6a5631b7c0ac"
-                }
-            ]
+                "scene": "9ee2f519-2599-4779-8714-cc43703f4282"
+            }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
