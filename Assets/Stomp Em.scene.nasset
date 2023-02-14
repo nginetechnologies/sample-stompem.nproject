@@ -66,14 +66,8 @@
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "f7189061-5ebf-16bd-8e4f-2f5b6d81e7b1",
             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                "scene": "2dd09355-9716-8f3a-0b43-798076405619"
-            },
-            "data_components": [
-                {
-                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
-                    "templateInstanceGuid": "f7189061-5ebf-16bd-8e4f-2f5b6d81e7b1"
-                }
-            ]
+                "scene": "bbf0dcee-1841-4c28-959a-e3cc84644ba6"
+            }
         },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
