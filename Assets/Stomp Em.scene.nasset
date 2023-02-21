@@ -51,9 +51,9 @@
             "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
             "instanceGuid": "1ce5797a-b27a-c383-bcaf-96f303ffbeab",
             "ea45accb-89d5-4816-9831-f116045b90e4": {
-                "looping": false,
-                "autoplay": false,
-                "volume": 1.0
+                "looping": true,
+                "autoplay": true,
+                "volume": 0.2
             },
             "data_components": [
                 {
