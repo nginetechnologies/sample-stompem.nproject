@@ -1,8 +1,7 @@
 {
     "8c490477-4d57-1530-9184-455874715222": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
-        "path": "Assets.nassetdb",
-        "name": "Stomp Em"
+        "path": "Assets.nassetdb"
     },
     "c700b738-d5d7-48bb-a8c4-d090d7ae091d": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
@@ -13,7 +12,10 @@
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
         "path": "Project.nproject",
         "name": "Stomp Em",
-        "thumbnail": "8e20f14e-a5f8-8548-1bbe-9aae10bc312c"
+        "thumbnail": "8e20f14e-a5f8-8548-1bbe-9aae10bc312c",
+        "tags": [
+            "f5777f96-a43c-4ebd-872a-1eeda5719aaf"
+        ]
     },
     "guid": "8c490477-4d57-1530-9184-455874715222",
     "imported_assets": [
@@ -55,7 +57,6 @@
         "21d6e339-125a-69c3-aff0-28e9fc0ba353",
         "21eee7a0-a43b-5af4-4a37-b19e661ec05d",
         "23dc6951-ac5f-8d1e-fd05-153ec04f9afd",
-        "9ee2f519-2599-4779-8714-cc43703f4282",
         "249ed137-b232-067b-2ec1-820b67b33d4c",
         "252eafff-84f6-4411-7498-2943657ff1db",
         "264496a0-c4db-18f2-6586-d51b8775cbe7",
@@ -69,7 +70,6 @@
         "2af7c0dc-b377-fbbf-b742-fe175fc9f767",
         "2b03c924-175d-869f-0fc3-abafc51ba418",
         "2b07c9cb-8518-684f-6341-6fa9e7dd3dbe",
-        "5ef1bfaa-d8df-4935-994f-df33692ed732",
         "2bc3004d-cff7-a47e-6bf8-d5fbc6b656fe",
         "2ccd05b6-5677-6fb1-dd0d-7f31a9fdd5f2",
         "2dd09355-9716-8f3a-0b43-798076405619",
@@ -140,6 +140,7 @@
         "5536cd18-5d40-ea73-4d35-3628da5e594f",
         "55540e2a-e442-7ccc-5834-78a298fe3097",
         "5619f6ac-abd8-5fa5-d60a-9ba5db40360b",
+        "566de671-d5c0-4830-bad6-731c0c25baaa",
         "58714781-0c8e-9a91-082e-f6d8d9a4af81",
         "58b778ad-94ed-4ce5-1dca-225474c1ff16",
         "59b43685-d60a-ab56-461b-a619ec1f2326",
@@ -155,6 +156,7 @@
         "5d458fc9-d257-7b83-bae1-34d4170cced2",
         "5d64332e-08ba-63b4-81cc-28ebe1be18cc",
         "5e455331-f7b1-dd43-a537-23de64ed84db",
+        "5ef1bfaa-d8df-4935-994f-df33692ed732",
         "5f14b399-4ce2-e0de-5bdf-673c8b018578",
         "5fb246dd-4b4e-5697-80b7-755ba3a0dbd9",
         "6056fc05-d097-c7eb-0ed1-5ff01413442e",
@@ -230,6 +232,7 @@
         "9e201f2a-7e0c-9ae3-3dae-7b174d67b664",
         "9e21b649-77bb-148f-2b19-4bf19380f2d9",
         "9e91cecf-aa10-0eed-32f1-98239318b731",
+        "9ee2f519-2599-4779-8714-cc43703f4282",
         "9fadcd4b-e8b2-1043-a5ff-911a471241ff",
         "a0581e58-5f58-7ac8-7ce0-aac9e2a1b998",
         "a0f89bb4-4e54-0496-55bb-c6c9e1524e20",
@@ -344,7 +347,6 @@
         "f730ad41-945e-be1d-441b-299c0763eb4e",
         "f736ee26-43b8-95d6-22af-88ae3aa8693a",
         "f7b58e89-67b0-5016-aaac-ebe4430622eb",
-        "566de671-d5c0-4830-bad6-731c0c25baaa",
         "f8188887-bf92-e94d-3788-5734ae50e9a4",
         "f9ff4cb1-ff66-4457-d174-44016dd963d5",
         "fc190bf1-793c-6b53-16d0-7ce284e746be",
