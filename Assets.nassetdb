@@ -2,7 +2,11 @@
     "51c77278-91ee-4501-a6d8-1580ef6a1047": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
-        "path": "Assets/Stomp Em.scene.nasset"
+        "path": "Assets/Stomp Em.scene.nasset",
+        "metadata": {
+            "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+            "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[13.656003952026368,-3.7772469520568849,13.844884872436524],\"rotation\":[-40.23350143432617,0.0000010028967381003895,36.48224639892578]}"
+        }
     },
     "8c490477-4d57-1530-9184-455874715222": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",

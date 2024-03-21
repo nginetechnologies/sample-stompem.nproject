@@ -4,53 +4,12 @@
     "typeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
     "instanceGuid": "24ca8604-5c37-0647-1c68-52e99aee0128",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
-        "radius": 4096.0
+        "radius": 4096
     },
-    "data_components": [
-        {
-            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
-        },
-        {
-            "typeGuid": "05a7011d-a220-49f2-98df-81b32be3c0fd",
-            "camera_settings": {
-                "typeGuid": "9ae0e145-86b4-4e47-afda-697bbd008922",
-                "9ae0e145-86b4-4e47-afda-697bbd008922": {
-                    "fieldOfView": 60.0,
-                    "nearPlane": 0.1,
-                    "farPlane": 128.0
-                }
-            },
-            "transform": {
-                "position": [
-                    29.9422,
-                    -43.8888,
-                    29.3571
-                ],
-                "rotation": [
-                    -34.0773,
-                    0.0,
-                    41.5798
-                ]
-            },
-            "grid_settings": {
-                "typeGuid": "ecc5ac5d-5450-4808-97b1-e25d91462d96",
-                "ecc5ac5d-5450-4808-97b1-e25d91462d96": {
-                    "transform": {
-                        "position": [
-                            -19.0,
-                            14.0,
-                            5.0
-                        ],
-                        "scale": [
-                            -1.0,
-                            -1.0,
-                            1.0
-                        ]
-                    }
-                }
-            }
-        }
-    ],
+    "metadata": {
+        "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
+        "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[13.656003952026368,-3.7772469520568849,13.844884872436524],\"rotation\":[-40.23350143432617,0.0000010028967381003895,36.48224639892578]}"
+    },
     "children": [
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
