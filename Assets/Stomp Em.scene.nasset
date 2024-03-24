@@ -10,7 +10,69 @@
         "b59ca996-9dba-4fe9-a9a6-4fff12b86b3e": "{\"fieldOfView\":60.0,\"nearPlane\":0.10000000149011612,\"farPlane\":128.0}",
         "bfb3d666-cd09-4266-af70-8cb9fc5f5d5b": "{\"position\":[13.656003952026368,-3.7772469520568849,13.844884872436524],\"rotation\":[-40.23350143432617,0.0000010028967381003895,36.48224639892578]}"
     },
+    "data_components": [
+        {
+            "typeGuid": "64215a37-64a6-45bd-ba87-10abe74da0f9"
+        }
+    ],
     "children": [
+        {
+            "typeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    0.0,
+                    0.0,
+                    6.0
+                ]
+            },
+            "ea45accb-89d5-4816-9831-f116045b90e4": {
+                "audio_asset": "ae8f06c1-b770-43b7-9149-cceb109900fb",
+                "looping": true,
+                "volume": 0.3,
+                "outer_radius": 100.0
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Outdoor Ambience"
+                }
+            ]
+        },
+        {
+            "typeGuid": "88a0cdbb-2826-46e3-b372-2a5154eacb61",
+            "de8f8da2-d37f-41da-bc6e-580435fe605f": {
+                "position": [
+                    -6.0,
+                    10.7,
+                    3.1
+                ],
+                "rotation": [
+                    0.0,
+                    0.0,
+                    -90.0
+                ],
+                "referenced": true
+            },
+            "88a0cdbb-2826-46e3-b372-2a5154eacb61": {
+                "asset": "a4cf07e5-58a7-4de1-9ae2-a244606ecfde"
+            },
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "Spawn Point"
+                },
+                {
+                    "typeGuid": "1c6d4883-40c7-476d-95ee-90a82135974b",
+                    "templateInstanceGuid": "d3f8c605-fcfb-7875-d708-d957a810e116"
+                },
+                {
+                    "typeGuid": "fa5e5929-fdb4-4579-8c03-f3f837cf4905",
+                    "mask": [
+                        "997e9c4d-d494-4a6e-bb6c-620ced5fabde"
+                    ]
+                }
+            ]
+        },
         {
             "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
             "instanceGuid": "25e6d970-a3ed-df48-a39e-bb2416130736",
